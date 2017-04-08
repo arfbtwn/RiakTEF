@@ -1,0 +1,12 @@
+*.patch
+*.diff
+
+*.user
+*.suo
+
+*.nupkg
+
+bin/
+obj/
+packages/
+.vs/
